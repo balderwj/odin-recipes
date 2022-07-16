@@ -1,0 +1,1 @@
+This is a project to further expand on the git commands and HTML basics that I have learned
